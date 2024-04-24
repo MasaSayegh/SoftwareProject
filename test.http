@@ -1,0 +1,9 @@
+POST http://localhost:5000/signup HTTP/1.2
+Content-Type:application/json
+
+{
+    "email":"masa.sayegh@gmail.com",
+    "password":"massa",
+    "firstName":"masa",
+    "secondName":"ssa"
+}
